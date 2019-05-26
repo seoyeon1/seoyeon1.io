@@ -1,0 +1,20 @@
+h1 {
+    color: #FCA205;
+}
+
+div.content {
+    background-image: linear-gradient(to right,  #FCA205 0%,#ffd792 100%), url("./image/2018-08-19-12-39-03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-clip: padding-box;
+    /* background-color: rgba(250, 235, 215,0.5); */
+}
+.header {
+    margin: 0;padding: 0;
+    /* opacity: 70%; */
+    background-image: linear-gradient(to right,  #FCA205 0%,#ffd792 100%),url("./image/2018-08-19-11-18-55.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
